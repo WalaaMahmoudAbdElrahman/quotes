@@ -1,0 +1,69 @@
+ @media all and (max-width:950px){
+     .container{
+          width: 55% !important;
+     }
+     
+     .container #quote{
+          font-size: 28px;
+     }
+     .container .btn{
+          font-size: 15px;
+     }
+}
+@media all and (max-width:832px){
+     .container{
+          width: 60% !important;
+     }
+     
+     .container #quote{
+          font-size: 26px;
+     }
+     .container .btn{
+          font-size: 14px;
+     }
+     #author{
+          font-size: 18px;
+     }
+}
+@media all and (max-width:693px){
+     h1{
+          font-size: 26px;
+     }
+     .container{
+          width: 63% !important;
+     }
+     .container #quote{
+          font-size: 23px;
+     }
+     #author{
+          font-size: 14px;
+     }
+     .container .btn{
+          font-size: 13px;
+     }
+}
+@media all and (max-width:400px){
+     h1{
+          font-size: 19px;
+     }
+     .container{
+          width: 70% !important;
+     }
+     .container #quote{
+          font-size: 18px;
+     }
+     #author{
+          font-size: 10px;
+     }
+     .container .btn{
+          font-size: 11px;
+     }
+}
+@media all and (max-width:297px){
+     h1{
+          font-size: 17px;
+     }
+     .container #quote{
+          font-size: 16px;
+     }
+}
